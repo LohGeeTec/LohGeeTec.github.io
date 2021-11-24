@@ -3,7 +3,7 @@ module.exports = {
   themeConfig: {
     default:'dark',
     github: {
-        username: 'Akiekano', // Your GitHub org/user name. (Required)
+        username: 'Daniel', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -24,26 +24,26 @@ module.exports = {
         email: 'hello.akiekano@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
-        'Jquery',
-        'MySQL',
-        'Git',
-        'Docker',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'Piano',
+        'Guitar',
+        'Singing',
+        'Songwriting',
+        'Virtual Instruments',
+        'Digital Audio Workstation',
+        'Opencore basic',
+        'Local networking',
+        'Computer basic',
+        'Stay alive',
+        'Googling',
+        'Office basics',
+        'Gaming',
+        'Fullfills my needs',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Backend Engineer II',
-            from: 'September 2021',
+            company: 'SMPK BPK Penabur Serang',
+            position: 'Student',
+            from: '2019',
             to: 'Present'
         },
 //         { 
@@ -94,7 +94,7 @@ module.exports = {
 //         snippetVersion : 6
 //     },
     themeConfig: {
-        default: 'light',
+        default: 'luxury',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
