@@ -1,13 +1,9 @@
 // config.js
 module.exports = {
-  // ...
   themeConfig: {
-    default: 'dark',
-    // ...
-  }
-}
+    default:'dark',
     github: {
-        username: 'Daniel', // Your GitHub org/user name. (Required)
+        username: 'Akiekano', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
