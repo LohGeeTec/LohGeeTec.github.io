@@ -2,7 +2,7 @@
 module.exports = {
   // ...
   themeConfig: {
-    default: 'luxury',
+    default: 'dark',
     // ...
   }
 }
